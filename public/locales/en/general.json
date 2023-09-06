@@ -1,0 +1,17 @@
+{
+  "lang": {
+    "title": "日本語"
+  },
+  "document": {
+    "items": [
+      {
+        "name": "name 0",
+        "description": "description 0"
+      },
+      {
+        "name": "name 1",
+        "description": "description 1"
+      }
+    ]
+  }
+}
